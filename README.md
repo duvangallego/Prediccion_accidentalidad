@@ -9,3 +9,6 @@ Proyecto de la materia introducción a la inteligencia artificial
 
 ## DATOS
 Los datos provienen del siguiente link: https://www.kaggle.com/datasets/jonbown/us-2020-traffic-accidents
+
+## VIDEO-ENTREGA DE PROYECTO 2
+https://youtu.be/WiDKdEeM3jE?si=aItkZE7XziH8gl1H
